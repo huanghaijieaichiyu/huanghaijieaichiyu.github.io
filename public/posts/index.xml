@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ZO ZO</title>
+    <link>http://huanghaijieaichiyu.github.io/posts/</link>
+    <description>Recent content in Posts on ZO ZO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Apr 2019 14:26:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://huanghaijieaichiyu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>返校须知</title>
+      <link>http://huanghaijieaichiyu.github.io/posts/chinese-preview/</link>
+      <pubDate>Thu, 11 Apr 2019 14:26:00 +0800</pubDate>
+      
+      <guid>http://huanghaijieaichiyu.github.io/posts/chinese-preview/</guid>
+      <description>返校须知注意事项 内容 注意自身安全，远离人群</description>
+    </item>
+    
+    <item>
+      <title>Edit your information undergrund my site</title>
+      <link>http://huanghaijieaichiyu.github.io/posts/english-preview/</link>
+      <pubDate>Mon, 01 Apr 2019 14:26:00 +0800</pubDate>
+      
+      <guid>http://huanghaijieaichiyu.github.io/posts/english-preview/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Plrease do not check my fault, it&amp;rsquo;s beautiful.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>在线表格</title>
+      <link>http://huanghaijieaichiyu.github.io/posts/chinese-preview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://huanghaijieaichiyu.github.io/posts/chinese-preview/</guid>
+      <description>#返校时间统计 及各自返校方式 统计链接如下 http://https://docs.qq.com/sheet/DRE1GRHNwSlBOS1JE?tab=BB08J2 各自根据要求填写，特在此统计。 返校通知原文如下 学院关于返校的正式通知： **鉴于老生返校涉及提前订票事宜，在此明确如下： 按照教学管理组给定的返校时间段为：8月2</description>
+    </item>
+    
+  </channel>
+</rss>
